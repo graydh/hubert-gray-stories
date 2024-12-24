@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Stories of HBG</title>
-    <link>https://graydh.github.io/hubert-gray-stories/tags/</link>
+    <link>http://localhost:1313/hubert-gray-stories/tags/</link>
     <description>Recent content in Tags on The Stories of HBG</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://graydh.github.io/hubert-gray-stories/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hubert-gray-stories/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

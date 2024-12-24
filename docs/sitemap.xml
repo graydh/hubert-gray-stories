@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://graydh.github.io/hubert-gray-stories/about/</loc>
+    <loc>http://localhost:1313/hubert-gray-stories/about/</loc>
     <lastmod>2024-12-24T12:21:23-05:00</lastmod>
   </url><url>
-    <loc>https://graydh.github.io/hubert-gray-stories/</loc>
+    <loc>http://localhost:1313/hubert-gray-stories/</loc>
     <lastmod>2024-12-24T12:21:23-05:00</lastmod>
   </url><url>
-    <loc>https://graydh.github.io/hubert-gray-stories/post/first-story/</loc>
+    <loc>http://localhost:1313/hubert-gray-stories/post/first-story/</loc>
     <lastmod>2024-12-24T12:05:10-05:00</lastmod>
   </url><url>
-    <loc>https://graydh.github.io/hubert-gray-stories/post/second-post/</loc>
+    <loc>http://localhost:1313/hubert-gray-stories/post/second-post/</loc>
     <lastmod>2024-12-24T12:05:10-05:00</lastmod>
   </url><url>
-    <loc>https://graydh.github.io/hubert-gray-stories/post/</loc>
+    <loc>http://localhost:1313/hubert-gray-stories/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://graydh.github.io/hubert-gray-stories/categories/</loc>
+    <loc>http://localhost:1313/hubert-gray-stories/categories/</loc>
   </url><url>
-    <loc>https://graydh.github.io/hubert-gray-stories/tags/</loc>
+    <loc>http://localhost:1313/hubert-gray-stories/tags/</loc>
   </url>
 </urlset>
