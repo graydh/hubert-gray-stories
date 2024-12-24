@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Stories of Hubert Gray</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Stories of Hubert Gray</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Dec 2024 12:05:10 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Story</title>
+      <link>http://localhost:1313/posts/first-story/</link>
+      <pubDate>Tue, 24 Dec 2024 12:05:10 -0500</pubDate>
+      <guid>http://localhost:1313/posts/first-story/</guid>
+      <description>&lt;p&gt;Hello this is the first story.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
